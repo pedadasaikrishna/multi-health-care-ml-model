@@ -1,0 +1,1 @@
+streamlit run "C:\Users\VINAY\OneDrive\Desktop\sai\ml\untitled0.py"
